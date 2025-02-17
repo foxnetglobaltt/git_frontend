@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-// import PopUpForm from "../Open/PopUpForm";
+// import PopUpForm from "../Open/PopUpForm"
 import generateServiceTicketAdminPDF from "./pdfGeneratorcloseadmin";
 import { useNavigate } from "react-router-dom";
 import { saveAs } from "file-saver";
